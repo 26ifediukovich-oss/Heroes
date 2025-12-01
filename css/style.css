@@ -4,7 +4,15 @@ html, body{
 .hero1{
     height: 100%;
     background-image: url(../images/kitten.jpg);
-    background-size: 70%;
-     background-position: top center;
+    background-size: 40%;
+    background-position: top right;
     background-repeat: no-repeat;
+}
+section{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+.hero2{
+    
 }
