@@ -8,11 +8,22 @@ html, body{
     background-position: top right;
     background-repeat: no-repeat;
 }
-section{
+.st1{
     width: 60%;
     display: flex;
     justify-content: center;
 }
 .hero2{
-    
+    height: 100%;
+    background-image: linear-gradient(to right, rgb(138, 89, 89), rgb(90, 90, 54));
+    background-repeat: no-repeat;
+    justify-content: center;
+  
+
+}
+.cpy{
+width: 50%;
+display: flex;
+justify-content: center;
+flex-direction: column;
 }
